@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### I am LetsManuel a Developer working on that, what you use (or dont idk)
+
 - 🔭 I’m currently working on EasyNet
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on NRC
