@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=letsmanuel&icon=2&color=0)](https://visitcount.itsvg.in)
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/2e7c7.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
